@@ -2,7 +2,7 @@
 Simple Java game using java SWING
 
 ## Explanation
-Build this game while i was learning java swing
+Build this game while i was learning java swing.  
 
 ## Usage
 
