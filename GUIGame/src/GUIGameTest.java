@@ -9,6 +9,6 @@ public class GUIGameTest {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setSize(600, 600);
 		frame.setVisible(true);
-		frame.setTitle("Second Game.")
+		frame.setTitle("Second Game.");
 	}
 }
