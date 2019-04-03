@@ -13,7 +13,7 @@ import project to your workspace
 Run As Java Application  
 
 ## How to play
-Use left and right arriow to move to the left or right  
+Use left and right arriow to move to the left or right.  
 Use up arrow to shoot at the object.
 
 ## GIF output
